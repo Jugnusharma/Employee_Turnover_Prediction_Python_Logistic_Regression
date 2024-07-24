@@ -46,7 +46,7 @@ Tableau: ETL, calculated columns, data visualization, data modeling
 # Factor Plot/Distribution plot
 ![image](https://github.com/user-attachments/assets/303594b5-c364-436b-9ab7-7f149f2640f1)
 
-# Model is 76.61% accurate
+# Pseudo R Sq: is 1.94 and upon scaling the data is is 76.61% accurate
 logmodel = LogisticRegression()
 logmodel.fit(X,y) #model calculation
 
