@@ -36,10 +36,10 @@ Tableau: ETL, calculated columns, data visualization, data modeling
 ![image](https://github.com/user-attachments/assets/a67307b2-69c3-4599-92f0-e1cf64a73ae5)
 
 
-# More employees in lower salary have left
+# Check to see if more employees in lower salary have left
 ![image](https://github.com/user-attachments/assets/072a400a-3573-4c8f-bd0c-70ca83843121)
 
-# Visualize the effect of number of projects for the staff who has left
+# Visualize the effect employees left against number of projects worked
 ![image](https://github.com/user-attachments/assets/cf08cfd4-d031-46ad-81bf-2e40ffb7f63e)
 
 
